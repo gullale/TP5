@@ -6,6 +6,7 @@ public class Maintest {
 
 	public static void main(String[] args) {
 		
+		System.out.println("bonjour, ci dessous le TP5: ");
 
 		Scanner sc=new Scanner(System.in);
 		double rayon=sc.nextDouble();
